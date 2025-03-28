@@ -51,6 +51,6 @@ class CountdownTimer{
 
 timer = new CountdownTimer({
     selector: '#timer-1',
-    targetDate: new Date('March 29, 2025'),
+    targetDate: new Date('June 28 , 2025'),
   });
 timer.start()
